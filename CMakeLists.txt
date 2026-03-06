@@ -13,7 +13,7 @@ project(GDCreatorStudio VERSION 1.0.0)
 
 # Use CPM to fetch Geode SDK
 include(cmake/CPM.cmake)
-CPMAddPackage("gh:geode-sdk/geode#v5.0.0-beta.4")
+CPMAddPackage("gh:geode-sdk/geode#v5.3.0")
 
 # Set up the mod target
 setup_geode_mod(${PROJECT_NAME})
