@@ -1,0 +1,19 @@
+{
+    "geode": "v5.0.0-beta.4",
+    "gd": {
+        "win": "2.2081",
+        "android": "2.2081",
+        "mac": "2.2081",
+        "ios": "2.2081"
+    },
+    "id": "dev.studio.gd-creator-studio",
+    "name": "Creator Studio",
+    "version": "v1.0.0",
+    "developer": "Studio Dev",
+    "description": "Level creation toolkit: animation presets, color palettes, gameplay analysis, and rating-ready checklist.",
+    "tags": ["editor", "enhancement", "utility", "customization", "developer"],
+    "dependencies": [],
+    "issues": {
+        "url": "https://github.com/studio-dev/gd-creator-studio/issues"
+    }
+}
